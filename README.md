@@ -135,6 +135,30 @@ npx prisma studio
 # Build and run with Docker Compose
 docker-compose up --build
 ```
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot_20260207_150551" src="https://github.com/user-attachments/assets/451d1a48-06df-4573-abb1-e53c543128e6" />
+<img width="1920" height="981" alt="Screenshot_20260207_150605" src="https://github.com/user-attachments/assets/4d686c9a-559e-4068-b98f-ea6d0aacc8db" />
+<img width="1920" height="1080" alt="Screenshot_20260207_150706" src="https://github.com/user-attachments/assets/ac9095f7-1d0f-45ec-b50c-6de2ebe92404" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151219" src="https://github.com/user-attachments/assets/d8efd276-5d85-4700-8288-b7e22e8d343a" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151225" src="https://github.com/user-attachments/assets/33144d51-3216-4201-8311-f1929e245b13" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151229" src="https://github.com/user-attachments/assets/49dfae8e-5f9d-42fb-b25d-1d3ec52d527e" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151231" src="https://github.com/user-attachments/assets/b0bc93c3-989a-42da-aa72-39949fe955da" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151234" src="https://github.com/user-attachments/assets/fd887da1-1ad4-4076-898d-98a6829dd2e7" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151238" src="https://github.com/user-attachments/assets/41d0449e-57df-4088-b90d-d1910d668d3e" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151240" src="https://github.com/user-attachments/assets/8fc00024-ce76-4225-ad2f-e11f3e1a3bf0" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151243" src="https://github.com/user-attachments/assets/cfe78842-9594-479e-b891-9489394a0799" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151246" src="https://github.com/user-attachments/assets/8499397f-9133-4c81-8ac1-07b16456350c" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151253" src="https://github.com/user-attachments/assets/f2aff534-486d-4a0e-9eee-7b3af294f788" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151255" src="https://github.com/user-attachments/assets/d3ba3db6-6a91-4be6-a421-b85e8cbe863a" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151257" src="https://github.com/user-attachments/assets/0ee55b3e-34dd-4851-a45e-27c1baf5ac15" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151301" src="https://github.com/user-attachments/assets/2a8519ab-5e90-44e9-bc95-3fe9fe176241" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151307" src="https://github.com/user-attachments/assets/10c91be8-cc71-4c83-a28c-93ff2f953e7f" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151310" src="https://github.com/user-attachments/assets/15a607ba-98b0-4942-921f-af7ed769fd9a" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151337" src="https://github.com/user-attachments/assets/3a2adc8a-a3e1-4127-b053-a8b3aa401b1d" />
+<img width="1920" height="1080" alt="Screenshot_20260207_151340" src="https://github.com/user-attachments/assets/b01e415e-fa0b-4c80-b1f7-8425cc857231" />
+
+
 
 ## License
 
